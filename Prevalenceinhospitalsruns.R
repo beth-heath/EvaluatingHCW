@@ -1,4 +1,4 @@
-setwd("/Users/bethanyheath/Downloads/results 6 copy/")
+setwd("")
 library(data.table)
 library(dplyr)
 library(tidyr)
